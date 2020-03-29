@@ -105,3 +105,15 @@ dist
 
 # Local database
 *.sqlite3
+
+# React Native
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
