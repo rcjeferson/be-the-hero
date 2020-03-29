@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 32,
+  "expoServerNgrokUrl": "https://mh-zhm.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.mh-zhm.anonymous.mobile.exp.direct",
+  "ngrokPid": 20000,
+  "webpackServerPort": null
+}
